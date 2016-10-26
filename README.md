@@ -1,7 +1,7 @@
 Programming Test
 ========
 
-This is a dummy application to be used as part of a software development interview.
+This is a dummy application to be used as part of a software development interview. It was forked from https://github.com/kiiadi/abc-bank.git
 
 instructions
 --------
